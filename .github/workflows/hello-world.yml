@@ -10,4 +10,4 @@ jobs:
             image: rkrispin/data-pipeline-automation-with-github-actions:prod
         steps:
             - name: print-hello-world
-              run: echo "Hello World!"
+              run: echo "Hello World!" 
